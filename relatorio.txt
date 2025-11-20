@@ -1,0 +1,9 @@
+RELATÓRIO COMPLETO DE LANÇAMENTOS
+
+COD  TIPO       DESCRICAO                      VALOR        DATA         STATUS    
+-------------------------------------------------------------------------------
+001 despesa    agua                           100.00       19/11/2025   EXCLUIDO  
+002 despesa    mercado                        90.00        15/11/2025   ATIVO     
+003 despesa    combustivel                    150.00       10/11/2025   ATIVO     
+004 receita    decimo terceiro salario        754.00       20/11/2025   ATIVO     
+005 receita    aluguel                        900.00       05/11/2025   ATIVO     
